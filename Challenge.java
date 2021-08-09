@@ -18,7 +18,7 @@ public class Challenge {
         reverse = reverse + st.charAt(i);
         } 
         */ 
-        System.out.println(reverse);
+        System.out.println("ok");
  	 
         }  
 } 
