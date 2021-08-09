@@ -13,11 +13,11 @@ public class Challenge {
          st=br.readLine();
         System.out.println("The reverse is:");
 
-        /*  Uncomment this solution code 
+
         for(int i = st. length() - 1; i >= 0; i--) {
         reverse = reverse + st.charAt(i);
         } 
-        */ 
+
         System.out.println(reverse);
  	 
         }  
